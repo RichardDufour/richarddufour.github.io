@@ -95,9 +95,24 @@ header .inner {
   body {
     font-family: sans-serif;
     font-weight: 700;
-    background:#005F6B;
+    background-size: 100%;
     color:#00DFFC
   }
+
+  body:before {
+        content: "";
+        position: fixed;
+        height: 100%; width: 100%;
+        background-image:url(../images/background.png);
+        background-size: cover;
+        z-index: -1; /* Keep the background behind the content */     
+        filter: blur(4px) brightness(110%);
+    -webkit-background-size: cover; /* pour Chrome et Safari */
+    -moz-background-size: cover; /* pour Firefox */
+    -o-background-size: cover; /* pour Opera */
+    background-size: cover; /* version standardisée */
+   }
+
   p {
     font-size:25px;
     text-align:center;
