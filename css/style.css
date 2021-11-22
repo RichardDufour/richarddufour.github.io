@@ -12,11 +12,11 @@ header{
     height: 80px;
     border-bottom: solid 1px rgba(16, 16, 16, 0.1);
     font-family: 'Outfit', sans-serif;
-    background-color:darkred;
+    background-color:white;
 }
 
 header .inner {
-    width: 1000px;
+    width: 95%;
     height: 100%;
     display: block;
     margin: 0 auto;
@@ -29,7 +29,7 @@ header .inner {
 }
 
 .logo_container h1{
-    color: white;
+    color: #A6754B;
     height: 100%;
     display: table-cell;
     vertical-align: middle;
@@ -55,13 +55,13 @@ header .inner {
 .navigation a li {
     display: table-cell;
     vertical-align: middle;
-    color: white;
+    color: #A6754B;
 }
 
 .navigation a li {
     display: table-cell;
     vertical-align: middle;
-    color: white;
+    color: #A6754B;
     font-size: 20px;
 }
 
@@ -72,8 +72,8 @@ header .inner {
 .reveal {
     color:#0000;
     background:
-      linear-gradient(#00DFFC 0 0),
-      linear-gradient(#00DFAF 0 0);
+      linear-gradient(#A6754B 0 0),
+      linear-gradient(#A6754B 0 0);
     background-size:0 100%;
     background-position:0 0;
     -webkit-background-clip:padding-box,text;
@@ -95,23 +95,9 @@ header .inner {
   body {
     font-family: sans-serif;
     font-weight: 700;
+    background-image:url(../images/background2.jpg);
     background-size: 100%;
-    color:#00DFFC
   }
-
-  body:before {
-        content: "";
-        position: fixed;
-        height: 100%; width: 100%;
-        background-image:url(../images/background.png);
-        background-size: cover;
-        z-index: -1; /* Keep the background behind the content */     
-        filter: blur(4px) brightness(110%);
-    -webkit-background-size: cover; /* pour Chrome et Safari */
-    -moz-background-size: cover; /* pour Firefox */
-    -o-background-size: cover; /* pour Opera */
-    background-size: cover; /* version standardisée */
-   }
 
   p {
     font-size:25px;
@@ -125,3 +111,24 @@ header .inner {
     margin:10px auto;
     max-width:600px;
   }
+
+.blockleft {
+  display: block; 
+  margin-top: 70px;
+  margin-left: 10%;
+  width: 400px;
+  height: 500px;
+  opacity: 0.9;
+  background-color: #818C86;
+  float: left;
+}
+
+.blockright {
+  display: block;
+  margin-top: 70px;
+  margin-left: 50%;
+  width: 700px;
+  height: 500px;
+  opacity: 0.5;
+  background-color: white;
+}
