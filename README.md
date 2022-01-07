@@ -1,4 +1,4 @@
-# richarddufour.github.io
+# [richarddufour.github.io][website]
 
 <img align="left" alt="Coffee" src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 <img align="left" alt="Coffee" src="https://forthebadge.com/images/badges/uses-html.svg" />
