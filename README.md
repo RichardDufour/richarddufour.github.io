@@ -7,4 +7,5 @@
 <img align="left" alt="Coffee" src="https://forthebadge.com/images/badges/uses-html.svg" />
 <img align="left" alt="Coffee" src="https://forthebadge.com/images/badges/uses-css.svg" />
 <img align="left" alt="Coffee" src="https://forthebadge.com/images/badges/uses-git.svg" />
-[![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+
+<br />
