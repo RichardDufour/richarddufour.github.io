@@ -21,3 +21,12 @@ N'hésitez pas à me contacter : richarddufour@laposte.net ✉️
 [<img align="left" alt="richarddufour | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
+--- 
+
+[website]: https://richarddufour.github.io/
+[course]: https://www.youtube.com/channel/UCzWH5xVM0zdcFKvfdLapOJg
+[twitter]: https://twitter.com/DufourRichard3
+[youtube]: https://www.youtube.com/channel/UCzWH5xVM0zdcFKvfdLapOJg
+[instagram]: https://www.instagram.com/orangius/
+[linkedin]: https://www.linkedin.com/in/richard-dufour-0b42751b9/
