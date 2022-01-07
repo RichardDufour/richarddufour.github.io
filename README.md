@@ -6,6 +6,7 @@
 <img align="left" alt="Coffee" src="https://forthebadge.com/images/badges/uses-git.svg" />
 
 <br />
+<br />
 Site hébergé grâce à GitHub Pages 🧑‍💻
 <br />
 N'hésitez pas à me contacter : richarddufour@laposte.net ✉️
