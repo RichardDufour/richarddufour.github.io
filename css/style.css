@@ -167,3 +167,12 @@ button a {
   font-weight: 700;
   font-family: 'Playfair Display', serif;
 }
+
+.list {
+  display: flex;
+  align-items: center;
+}
+
+.list li {
+  padding: 10px;
+}
