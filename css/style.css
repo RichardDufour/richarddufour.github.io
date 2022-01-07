@@ -13,5 +13,13 @@
   position: relative;
   height: 100vh;
   width: 100%;
-  background: radial-gradient(#254335, #191a1e);
+  background: radial-gradient(#f7a902, #410a06);
+}
+
+.container {
+  width: 1350px;
+  max-width: 95%;
+  margin: 0 auto;
+  position: relative;
+  height: 100hv;
 }
