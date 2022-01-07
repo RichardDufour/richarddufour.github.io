@@ -48,7 +48,7 @@ nav ul li a {
   font-weight: 500;
 }
 
-nav ul li a :hover {
+nav ul li a:hover {
   color:#b17900;
   transition: 0.5s;
 }
