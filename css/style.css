@@ -48,8 +48,8 @@ nav ul li a {
   font-weight: 500;
 }
 
-nav ul li a:hover {
-  color:#b17900;
+nav ul li a:hover{
+  color:#0534d1;
   transition: .5s;
 }
 
