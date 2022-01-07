@@ -115,3 +115,25 @@ button:hover {
   border: 1px solid #b17900;
   cursor: pointer;
 }
+.btn:hover{
+  background-color: transparent;
+  border: 1px solid #b17900;
+  color: #b17900;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.middle {
+  position: absolute;
+  width: 100px;
+  left: 50%;
+  top: 58%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+.middle img {
+  width: auto;
+  height: 500px;
+  border-radius: 10%;
+}
